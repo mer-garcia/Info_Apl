@@ -1,1 +1,2 @@
-# Info_Apl
+# InfAplicada
+Clase de Informatica aplicada
